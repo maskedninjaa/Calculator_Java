@@ -2,7 +2,7 @@ package javaproject2;
 
 import java.util.Scanner;
 /**
- * Second project done from scratch on java
+ * Second project done from scratch in java
  * @author Wasim Nasser
  */
 public class Calc {
